@@ -1,3 +1,8 @@
 /node_modules
 .next
 .env.development
+
+# cypress
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
