@@ -26,7 +26,7 @@ export default function CasoDois() {
         </div>
         <div className={clsx(styles.nextContainer)}>
           <a href="/cypress/buttons/">
-            <button data-test="next-button" className={clsx(styles.button)}>
+            <button data-test="prev-button" className={clsx(styles.button)}>
               Voltar
             </button>
           </a>

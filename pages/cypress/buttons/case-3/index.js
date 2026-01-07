@@ -52,7 +52,7 @@ export default function CaseThree() {
         </div>
         <div className={clsx(styles.nextContainer)}>
           <a href="/cypress/buttons/case-2">
-            <button data-test="next-button" className={clsx(styles.button)}>
+            <button data-test="prev-button" className={clsx(styles.button)}>
               Voltar
             </button>
           </a>
