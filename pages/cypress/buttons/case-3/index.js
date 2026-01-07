@@ -29,6 +29,7 @@ export default function CaseThree() {
             <div>
               <input
                 id="situacao"
+                data-test="checkbox"
                 type="checkbox"
                 name="situacao"
                 checked={checked}
